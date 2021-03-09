@@ -1,15 +1,11 @@
 # staff-manage-system
 
-
----
-
 @[TOC](目录)
 
 **项目成效图**：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201006001816440.gif#pic_center)
 
 ---
-
 
 # （一）环境搭建
 
