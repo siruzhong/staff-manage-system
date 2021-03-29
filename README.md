@@ -4,8 +4,10 @@
 
 **项目结构图**：
 
-![image-20210330002538648](C:\Users\zsr204\AppData\Roaming\Typora\typora-user-images\image-20210330002538648.png)
+![image-20210330003642779](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330003642779.png)
 
+---
+<br>
 
 
 # 所用技术栈&实现功能
@@ -25,6 +27,8 @@
 + 404页面定制
 + 注销
 
+---
+<br>
 
 
 # 数据库sql文件
@@ -56,6 +60,8 @@ VALUES (1, "zsr", "1234@qq.com", 1, '技术部', NOW()),
 (5, "zch", "0878@qq.com", 1, '运营部', NOW())
 ```
 
+---
+<br>
 
 
 # 启动方法
