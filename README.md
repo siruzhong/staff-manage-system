@@ -1,10 +1,10 @@
 # 动图演示&项目结构图
 
-![img](https://gitee.com/zhong_siru/images/raw/master//img/20201006001816440.gif)
+![img](https://gitee.com/siruzhong/images/raw/master//img/20201006001816440.gif)
 
 **项目结构图**：
 
-![image-20210330003642779](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330003642779.png)
+![image-20210330003642779](https://gitee.com/siruzhong/images/raw/master//img/image-20210330003642779.png)
 
 ---
 <br>
@@ -68,7 +68,7 @@ VALUES (1, "zsr", "1234@qq.com", 1, '技术部', NOW()),
 
 clone项目到本地，用`IDE`打开，下载依赖，修改`application.properties`数据库配置
 
-![image-20210330003130357](https://gitee.com/zhong_siru/images/raw/master//img/image-20210330003130357.png)
+![image-20210330003130357](https://gitee.com/siruzhong/images/raw/master//img/image-20210330003130357.png)
 
 然后启动SpringBoot主启动类，访问`8081`端口即可访问
 
